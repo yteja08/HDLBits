@@ -15,6 +15,3 @@ endmodule
 
 
 
-git add .
-git commit -m "Added successfully today's task"
-git push
